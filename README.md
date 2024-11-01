@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning *Node Js, MERN*
 
-- 💬 Ask me about *MERN*
+- 💬 Ask me about *MERN Stack*
 
 - 📫 How to reach me *alokarya408@gmail.com*
 
